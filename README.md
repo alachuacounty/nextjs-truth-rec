@@ -10,4 +10,4 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 * Global Components are in Components folder
 * Navbar/Footer and global styles are linked into Layout Component
 * Layout Component is used globally throughout site
-* Each page has its own folder with jsx file(content) and -styles js file(styles)
+* Inside pages folder each webpage has its own folder with jsx file(content) and -styles js file(styles)
