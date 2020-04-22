@@ -8,6 +8,5 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 
 ## File/Folder structure
 * Global Components **(Navigation, Footer, Modal)** are in Components folder
-* Navbar/Footer and global styles are linked into Layout Component
-* Layout Component is used globally throughout site
+* Layout Component links Navigation/Footer and their styles to each page
 * Inside pages folder each webpage has its own folder with jsx file(content) and -styles js file(styles)
