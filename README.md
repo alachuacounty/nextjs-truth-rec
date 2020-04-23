@@ -13,3 +13,4 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 
 ## Resources
 * [Read about component model used in this project](https://reactjs.org/docs/components-and-props.html "React Component Model")
+* [Next.js Head component used](https://nextjs.org/docs/api-reference/next/head "Next.js Head Component")
