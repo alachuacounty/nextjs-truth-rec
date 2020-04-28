@@ -16,6 +16,7 @@ export default css `
     grid-template-columns: 1fr 5fr 1fr;
         grid-template-areas: ". alachua-info ." ;
     width: 100%;
+   
     background-color:#252525;
     color:white;
     min-height: 50px;
