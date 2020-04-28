@@ -64,6 +64,8 @@ h2 {
     ". map-title ."
     ". map-content .";
     grid-area: main-section;
+    -ms-grid-row:2;
+    -ms-grid-column:1;
 }
 .intro{
    -ms-grid-row: 1;

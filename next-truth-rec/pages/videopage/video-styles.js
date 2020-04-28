@@ -15,7 +15,8 @@ grid-template-areas:
 }
 .about-video{
     grid-area: about-video;
-    background-color:orange;
+    background-color:orange;   
+
 }
 
 .related{

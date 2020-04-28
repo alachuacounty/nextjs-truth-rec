@@ -46,6 +46,8 @@ h2 {
     grid-template-columns: 10% 1fr 10%;
         grid-template-areas: ". title . " ". timeline ."  ;
     margin-top: 40px !important;
+    -ms-grid-row:2;
+    -ms-grid-column:1;
   }
   h1.title {
     -ms-grid-row:1;
