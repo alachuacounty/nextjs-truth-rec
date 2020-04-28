@@ -30,6 +30,8 @@ h1 {
 
     grid-area:main-section;
     margin: 40px 0;
+    -ms-grid-row:2;
+    -ms-grid-column:1;
 }
 
 .resources-content{
