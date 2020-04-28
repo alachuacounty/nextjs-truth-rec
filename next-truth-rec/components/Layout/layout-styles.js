@@ -65,7 +65,7 @@ h2 {
         "main-section"
         "footer";
     min-height:100vh;
-    /*height:100vh;*/
+    height:100vh;
 }
 
 a:hover{
