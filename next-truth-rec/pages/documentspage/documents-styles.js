@@ -26,6 +26,8 @@ body{
   display:grid;
   -ms-grid-columns: 15% 1fr 15%;
   grid-template-columns: 15% 1fr 15%;
+  -ms-grid-row:2;
+  -ms-grid-column:1;
   -ms-grid-rows: -webkit-min-content 0 -webkit-min-content -webkit-max-content;
   -ms-grid-rows: min-content 0 min-content max-content;
   grid-template-rows: -webkit-min-content 0 -webkit-min-content -webkit-max-content;

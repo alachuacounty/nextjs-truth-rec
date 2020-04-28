@@ -19,6 +19,8 @@ body{
     display:-moz-box;
     display:-ms-flexbox;
     display:flex;
+    -ms-grid-row:2;
+    -ms-grid-column:1;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
        -moz-box-orient: vertical;

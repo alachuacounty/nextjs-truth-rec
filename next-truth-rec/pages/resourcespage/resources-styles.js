@@ -27,7 +27,6 @@ h1 {
     text-align:center;
 }
 .resources-main{
-
     grid-area:main-section;
     margin: 40px 0;
     -ms-grid-row:2;

@@ -39,6 +39,8 @@ h3 {
     -ms-grid-column: 1;
     grid-area: main-section;
     display: -ms-grid;
+    -ms-grid-row:2;
+    -ms-grid-column:1;
     display: grid;
     -ms-grid-columns: 25% 1fr 25%;
     grid-template-columns: 25% 1fr 25%;

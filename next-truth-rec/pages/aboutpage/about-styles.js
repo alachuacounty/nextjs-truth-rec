@@ -25,6 +25,8 @@ h3{
     display: grid;
     -ms-grid-columns: 25% 1fr 25%;
     grid-template-columns: 25% 1fr 25%;
+    -ms-grid-row:2;
+    -ms-grid-column:1;
         grid-template-areas: ". title ." ". about-content .";
         margin-top:50px;
 }

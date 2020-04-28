@@ -73,6 +73,8 @@ h1, h2{
     grid-area: main-section;
     display: -ms-grid;
     display: grid;
+    -ms-grid-row:2;
+    -ms-grid-column:1;
     -ms-grid-columns: 15% 1fr 15%;
     grid-template-columns: 15% 1fr 15%;
         grid-template-areas:

@@ -41,7 +41,9 @@ body{
     margin-top: 40px;
     margin-bottom: 50px;
 	display:grid;
-	-ms-grid-columns: 22% 1fr 22%;
+    -ms-grid-columns: 22% 1fr 22%;
+    -ms-grid-row:2;
+    -ms-grid-column:1;
 	grid-template-columns: 22% 1fr 22%;
 	    grid-template-areas: ". content .";
 }
