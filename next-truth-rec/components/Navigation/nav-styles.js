@@ -261,7 +261,7 @@ ul.modal-children li a{
 /*HAMBURGER ENDS HERE */
 
 
-/*1024 AND LARGER STYLES END HERE*/
+/*MEDIA QUERY STYLES HERE*/
 @media screen and (max-width: 1340px){
     .elements .menu , .subnav ul li{
         font-size: 1.1rem;
