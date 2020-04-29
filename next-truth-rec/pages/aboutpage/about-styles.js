@@ -28,7 +28,9 @@ h3{
     -ms-grid-row:2;
     -ms-grid-column:1;
         grid-template-areas: ". title ." ". about-content .";
-        margin-top:50px;
+    grid-area: main-section;
+    margin-top:40px;
+    margin-bottom:50px;
 }
 
 .title-about{

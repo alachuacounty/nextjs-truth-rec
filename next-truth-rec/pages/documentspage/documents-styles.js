@@ -37,6 +37,9 @@ body{
   ". search ."
   ". minutes-title ."
   ". items .";
+  grid-area: main-section;
+  margin-top:40px;
+  margin-bottom:50px;
 }
 .intro{
     -ms-grid-row:1;

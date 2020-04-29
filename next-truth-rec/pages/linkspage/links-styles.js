@@ -38,6 +38,8 @@ h3 {
     -ms-grid-row: 2;
     -ms-grid-column: 1;
     grid-area: main-section;
+    margin-top:40px;
+    margin-bottom:50px;
     display: -ms-grid;
     -ms-grid-row:2;
     -ms-grid-column:1;

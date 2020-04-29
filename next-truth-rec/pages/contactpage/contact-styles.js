@@ -45,7 +45,9 @@ body{
     -ms-grid-row:2;
     -ms-grid-column:1;
 	grid-template-columns: 22% 1fr 22%;
-	    grid-template-areas: ". content .";
+    grid-template-areas: ". content .";
+    grid-area: main-section;
+
 }
 @media screen and (max-width:920px){
     #contact-main {
