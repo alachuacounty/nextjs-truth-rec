@@ -16,10 +16,12 @@ h1 {
     margin-inline-end: 0px;
     font-weight: bold;
   }
-/************** MAIN CONTENT STYLES ***************/
-h3{
+  h3{
     font-size: 24px;
 }
+/************************************/
+/********MAIN CONTENT STYLES*********/
+/************************************/
 .main-about{
     display: -ms-grid;
     display: grid;
@@ -32,7 +34,6 @@ h3{
     margin-top:40px;
     margin-bottom:50px;
 }
-
 .title-about{
     -ms-grid-row:1;
     -ms-grid-column:2;
@@ -87,25 +88,5 @@ ol {
         grid-template-columns: 10% 1fr 10%;
     }
 }
-
-/* CODE FOR MAIN CONTENT AREA STARTS HERE
-
-#main-section{
-
-    display:grid;
-    grid-template-columns: 22% 1fr 22%;
-
-
-}
-
-#main-content{
-    grid-column: 2/3;
-    
-}
-
-*/
-
-
-
 
 `
