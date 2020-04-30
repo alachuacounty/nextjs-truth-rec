@@ -80,7 +80,9 @@ ol {
       list-style-type: none;
   }
 
-
+  /************************************/
+  /****MEDIA QUERY FOR MAIN ABOUT GRID****/
+  /************************************/
 @media screen and (max-width: 1024px) {
   
     .main-about{

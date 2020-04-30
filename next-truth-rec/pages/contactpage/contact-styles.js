@@ -18,6 +18,7 @@ h1 {
     margin-inline-end: 0px;
     font-weight: bold;
   }
+  
 /************** MAIN CONTENT STYLES ***************/
 h3{
     font-size: 24px;

@@ -33,7 +33,6 @@ h3 {
          /*UNIQUE MAIN GRID STYLES START HERE*/
 /************************************************/
 #events-main{
-
     display:-ms-grid;
     display:grid;
     -ms-grid-row:2;
@@ -41,6 +40,8 @@ h3 {
     -ms-grid-columns: 22% 1fr 22%;
     grid-template-columns: 22% 1fr 22%;
         grid-template-areas: ". content .";
+        margin-top: 40px;
+        margin-bottom: 50px;
 }
 @media screen and (max-width:920px){
     #events-main {
