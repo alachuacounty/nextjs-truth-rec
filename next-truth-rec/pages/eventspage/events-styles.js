@@ -29,9 +29,9 @@ h3 {
     margin-inline-end: 0px;
     font-weight: bold;
 }
-/*************************************************/
-         /*UNIQUE MAIN GRID STYLES START HERE*/
-/************************************************/
+/************************************/
+/********MAIN CONTENT STYLES*********/
+/************************************/
 #events-main{
     display:-ms-grid;
     display:grid;
@@ -43,6 +43,11 @@ h3 {
         margin-top: 40px;
         margin-bottom: 50px;
 }
+
+
+/************************************/
+/*******MEDIA QUERIES*********/
+/************************************/
 @media screen and (max-width:920px){
     #events-main {
         -ms-grid-columns: 12% 1fr 12%;
@@ -70,9 +75,6 @@ h3 {
     grid-area:content; 
 }
 
-/*************************************************/
-         /*UNIQUE MAIN GRID STYLES END HERE*/
-/************************************************/
 
 
 
