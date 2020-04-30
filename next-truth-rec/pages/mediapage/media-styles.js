@@ -9,7 +9,6 @@ export default css `
 .modal-body-2{
  padding: 15px;
 }
-/* STYLES FOR 1024 AND LARGER*/
 body {
     font-size: 16px;
     margin: 0;
@@ -28,26 +27,6 @@ h2 {
     margin-inline-end: 0px;
     font-weight: bold;
 }
-
-/*
-.grid-container {
-    display: grid;
-    grid-template-rows: repeat(3, auto);
-    grid-template-areas:
-        "nav"
-        "main"
-        "footer"
-}
-*/
-
-/* CSS FOR NAVBAR AND SUBNAV BAR*/
-
-
-
-  /* CODE FOR HAMBURGER MENU HERE*/
-
-
-/*HAMBURGER ENDS HERE */
 /* video cards css starts here*/
 
 #media-main{
@@ -317,51 +296,6 @@ h2 {
     margin: 0;
     padding: 0;
 } 
-
-
-
-
-
-
-/*MAP SECTION*/
-
-
-
-
-
-
-
-
-
-/*CSS FOR LIGHTBOX*/
-.lightbox {
-	/** Default lightbox to hidden */
-	display: none;
-	/** Position and style */
-	position: fixed;
-	z-index: 999;
-	width: 100%;
-	height: 100%;
-	text-align: center;
-	top: 0;
-	left: 0;
-	background: rgba(0,0,0,0.8);
-}
-.lightbox img {
-	/** Pad the lightbox image */
-	max-width: 100%;
-	max-height: 100%;
-    margin-top: 200px;
-    margin-bottom: auto;
-}
-
-.lightbox:target {
-	/** Remove default browser outline */
-	outline: none;
-
-	/** Unhide lightbox **/
-	display: block;
-}
 
 
 @media screen and (max-width: 1450px){
