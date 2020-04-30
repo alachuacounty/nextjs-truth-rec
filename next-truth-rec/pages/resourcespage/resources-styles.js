@@ -16,10 +16,7 @@ h1 {
     margin-inline-end: 0px;
     font-weight: bold;
   }
-.grid-container{
-    -ms-grid-rows: auto 1fr auto;
-    grid-template-rows: auto 1fr auto;
-}
+
 .title{
     font-size: 1.5rem;
     align-self:center;
@@ -211,7 +208,7 @@ p{
      .text p {
          font-size: 23px;
      }
-     .main {
+     .resources-main {
         grid-template-columns: 10% 1fr 10%;
         margin-top: 8px;
         margin-bottom: 29px;
@@ -362,7 +359,7 @@ p{
          .text p {
              font-size: 23px;
          }
-         .main {
+         .resources-main {
             grid-template-columns: 10% 1fr 10%;
             margin-top: 8px;
             margin-bottom: 29px;
