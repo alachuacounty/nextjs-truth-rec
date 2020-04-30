@@ -33,7 +33,9 @@ h3 {
     margin-inline-end: 0px;
     font-weight: bold;
 }
-
+/************************************/
+/********MAIN CONTENT STYLES*********/
+/************************************/
 #links-main{
     -ms-grid-row: 2;
     -ms-grid-column: 1;
@@ -49,12 +51,6 @@ h3 {
         grid-template-areas: ". content .";
     
 }
-.main-content{
-    -ms-grid-row:1;
-    -ms-grid-column:2;
-    grid-area:content;
-}
-
 .link-intro{
     -ms-grid-column:2;
     -ms-grid-column-span: 1;
@@ -62,44 +58,10 @@ h3 {
     grid-column:2/3;
     padding-top:3%;
 }
-/* CSS FOR NAVBAR AND SUBNAV BAR*/
 
-  /* CODE FOR HAMBURGER MENU HERE*/
-
-/*HAMBURGER ENDS HERE */
-
-
-
-
-/*
-footer {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    right:0;
-    left:0;
-    bottom: 0;
-    position: absolute;
-    width: 100%;
-    background-color:#252525;
-    color:white;
-    height:50px;
-    align-content: center;
-}
-
-.visit {
-    grid-column: 2/6;
-    margin: 0;
-    
-}
-
-.alachua-info{
-    font-size: 15px;
-    color:white;
-   
-}
-*/
-
-/*1024 AND LARGER STYLES END HERE*/
+/************************************/
+/********MEDIA QUERIES*********/
+/************************************/
 
 @media screen and (max-width: 480px) {
    
