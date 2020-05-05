@@ -5,6 +5,7 @@ h1 {
     font-size: 1.5em;
     margin-block-start: 0.83em;
     margin-block-end: 0.83em;
+    font-weight: bold;
 }
 h2 {
     display: block;
@@ -47,8 +48,6 @@ h2 {
   width:100%;
 }
 
-
-
 .modal-body{
     display: -ms-grid;
     display: grid;
@@ -61,12 +60,6 @@ h2 {
 
 
 
-}
-
-
-h1, h2{
-    font-size: 1.5rem;
-    font-weight: bold;
 }
 
 #landmarks-main{
@@ -127,11 +120,7 @@ h1, h2{
     margin-top:20px;
     
 }
-
-
-
 .markers article, .register-sites article, .noteworthy-locations article, .map article{
-
     width:20%;
     min-width:200px;
     max-width:350px;
@@ -242,10 +231,11 @@ h1, h2{
     -webkit-transform: scale(.9);
             transform: scale(.9);
 }
-/*END OF HOVER ON THE CARDS*/
 
 
-/*1024 AND LARGER STYLES END HERE*/
+/************************************/
+/*******MEDIA QUERIES*********/
+/************************************/
 /*
 @media screen and (max-width: 1210px){
     .menu{
@@ -280,7 +270,7 @@ h1, h2{
 */
 @media screen and (max-width: 1024px) {
 
-    #main-section{
+    #landmarks-main{
         -ms-grid-columns: 10% 1fr 10%;
         grid-template-columns: 10% 1fr 10%;
     }
