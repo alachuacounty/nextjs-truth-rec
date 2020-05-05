@@ -51,7 +51,6 @@ margin-bottom:80px;
 .image-grid{
     display: -ms-grid;
     display: grid;
-   
     -ms-grid-columns: 45% 5% 45%;
     grid-template-columns: 45% 45%;
     -ms-grid-rows: 45% 5% 45%;

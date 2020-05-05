@@ -2,9 +2,6 @@ import css from 'styled-jsx/css'
 
 
 export default css `
-html {
-    height: 100%;
-    }
 h1 {
     font-size: 1.5em;
     margin-block-start: 0.83em;
@@ -40,7 +37,6 @@ body{
   }
 
 #contact-main{
-
 	display:-ms-grid;
     margin-top: 40px;
     margin-bottom: 50px;
