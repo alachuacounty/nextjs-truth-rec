@@ -157,7 +157,6 @@ h2 {
 .resource {
     width: 100%;
 }
-
 .shadow{
     transition:transform .3s cubic-bezier(0.4, 0, 0.2, 1),opacity 0.1s,-webkit-transform .3s cubic-bezier(0.4, 0, 0.2, 1);
     -webkit-box-shadow: 0 0 30px rgba(0,0,0,0.1);
