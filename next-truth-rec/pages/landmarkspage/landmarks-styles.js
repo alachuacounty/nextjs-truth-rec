@@ -62,6 +62,10 @@ h2 {
 
 }
 
+/************************************/
+/*******MAIN GRID STARTS HERE*********/
+/************************************/
+
 #landmarks-main{
     grid-area: main-section;
     display: -ms-grid;
@@ -188,6 +192,10 @@ h2 {
     -webkit-transition: all .1;
     transition: all .1;
     overflow: hidden;
+
+/************************************/
+/*******MAIN GRID ENDS HERE*********/
+/************************************/
 }
 
 /* THE CODE FOR THE HOVER ON CARDS*/

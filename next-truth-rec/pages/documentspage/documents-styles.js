@@ -19,6 +19,9 @@ body{
   margin: 0!important;
 }
 
+/************************************/
+/*******MAIN GRID STARTS HERE*********/
+/************************************/
 .documents-main{
   width: 90vw;
   /*min-height: calc(100vh - 180px);*/
@@ -70,15 +73,6 @@ body{
     -ms-grid-column-align: center;
         justify-self: center;
 }
-
-/*1024 AND LARGER STYLES END HERE*/
-
-
-
-
-
-
-/* CODE FOR MAIN CONTENT AREA STARTS HERE*/
 
 .items {
     -ms-grid-row:4;
@@ -147,6 +141,14 @@ body{
     color: #efbb53;
     font-size: 1rem;
   }
+
+/************************************/
+/*******MAIN GRID ENDS HERE*********/
+/************************************/
+
+/************************************/
+/*******MEDIA QUERY STYLES*********/
+/************************************/
 
   @media (min-width: 640px) and (max-width: 1023px) {
     .items {
