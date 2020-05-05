@@ -239,7 +239,6 @@ render(){
                 <div className="modal-header">
                 <h4 className="modal-title">A. Quinn Jones House</h4>
                     <button type="button" className="close" data-dismiss="modal" aria-hidden="true">×</button>
-
                 </div>
                 <div className="modal-body">
                     <div className="modal-description">
@@ -247,22 +246,14 @@ render(){
                             African-American advocate, lived here from 1925 to 1997. </p>
                         <p>For more info, <a href="http://www.explorehistoricalachuacounty.com/location/a-quinn-jones-house/" target="blank">Click Here</a></p>
                     </div>
-
-
                     <img className="modal-landmark" src="/img/landmark-img/quinn-jones.png" alt=""/>
-
-
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-
-
-
 <div className="bs-example">
-
     <div id="liberty" className="modal fade">
         <div className="modal-dialog">
             <div className="modal-content">
@@ -279,17 +270,12 @@ render(){
                             community in Gainesville. </p>
                         <p>For more info, <a href="http://www.explorehistoricalachuacounty.com/location/liberty-hill-schoolhouse/" target="blank">Click Here</a></p>
                     </div>
-
-
                     <img className="modal-landmark" src="/img/landmark-img/liberty-hill.png" alt=""/>
-
-
                 </div>
             </div>
         </div>
     </div>
 </div>
-
 
 <div className="bs-example">
     <div id="shady-grove" className="modal fade">
@@ -306,18 +292,12 @@ render(){
                             Gainesville’s oldest and most historic African-American neighborhoods.</p>
                         <p>For more info, <a href="http://www.explorehistoricalachuacounty.com/location/shady-grove-primitive-baptist-church-and-porters-quarters/" target="blank">Click Here</a></p>
                     </div>
-
-
                     <img className="modal-landmark" src="/img/landmark-img/shady-grove.png" alt=""/>
-
-
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-
 
 <div className="bs-example">
     <div id="pleasant" className="modal fade">

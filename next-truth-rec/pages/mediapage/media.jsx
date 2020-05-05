@@ -21,9 +21,7 @@ render(){
                 <article className="shadow-plantations-card">
                     <a data-toggle="modal" data-target="#myModal1">
                     <div className="image-top-left">
-
                             <img data-toggle="modal" src="../img/shadows.png" className="resource" alt="in the shadows image"/>
-
                     </div>
 
                     <div className="card-text">
@@ -83,11 +81,7 @@ render(){
                 <article className="cotton-club-card">
                     <a data-toggle="modal" data-target="#myModal6">
                     <div className="image-top">
-
                             <img src="../img/cotton-club.png" className="resource" alt="image of chari person of cotton club museum"/>
-
-
-                     
                     </div>
 
                     <div className="card-text">
@@ -98,9 +92,9 @@ render(){
                 </article>
             </section>
 
-
+            /* code from here down is for bootstrap modals and their content*/
             <div className="bs-example"> 
-        <div id="myModal1" className="modal fade">
+             <div id="myModal1" className="modal fade">
             <div className="modal-dialog">
                 <div className="modal-content">
                     <div className="modal-header">
