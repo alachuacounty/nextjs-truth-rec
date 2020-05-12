@@ -25,17 +25,17 @@ render(){
     return(
     <React.Fragment>
  
- <div class="carousel">
-  <div class="carousel-cell">
+ <div className="carousel">
+  <div className="carousel-cell">
   <img src="./img/carousel-media/test.jpg" alt=""/>
   </div>
-  <div class="carousel-cell">
+  <div className="carousel-cell">
   <img src="./img/carousel-media/test.jpg" alt=""/>
   </div>
-  <div class="carousel-cell">
+  <div className="carousel-cell">
   <img src="./img/carousel-media/test.jpg" alt=""/>
   </div>
-   <div class="carousel-cell">
+   <div className="carousel-cell">
   <img src="./img/carousel-media/test.jpg" alt=""/>
   </div>
 
