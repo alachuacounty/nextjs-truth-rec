@@ -155,7 +155,7 @@ render(){
 
 
 
-/* code from here down is for bootstrap modals and their content*/
+
     <div className="bs-example">
     <div id="NewberryLynchingMarker" className="modal fade" style={hiddenStyle}>
         <div className="modal-dialog">

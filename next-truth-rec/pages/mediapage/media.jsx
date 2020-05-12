@@ -92,7 +92,7 @@ render(){
                 </article>
             </section>
 
-            /* code from here down is for bootstrap modals and their content*/
+           
             <div className="bs-example"> 
              <div id="myModal1" className="modal fade">
             <div className="modal-dialog">
