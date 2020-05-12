@@ -6,6 +6,8 @@ h1 {
     font-size: 1.5em;
     margin-block-start: 0.83em;
     margin-block-end: 0.83em;
+    font-weight: bold;
+   
   }
 
   
@@ -112,6 +114,7 @@ h1.title {
     -ms-grid-column:2;
     margin: auto;
     grid-area:title;
+    margin-bottom:1rem;
   }
 
 
