@@ -1,6 +1,9 @@
 import css from 'styled-jsx/css'
 
 export default css `
+body{
+    margin: 0!important;
+}
 h1 {
     font-size: 1.5em;
     margin-block-start: 0.83em;
@@ -16,6 +19,7 @@ h2 {
     margin-inline-end: 0px;
     font-weight: bold;
 }
+
 .modal-body{
     display: -ms-grid;
     display: grid;
