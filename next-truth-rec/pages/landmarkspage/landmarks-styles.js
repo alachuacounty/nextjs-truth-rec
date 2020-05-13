@@ -33,7 +33,8 @@ h2 {
     -ms-grid-row: 1;
     -ms-grid-column: 1;
     grid-area: modal-description;
-    line-height: 2rem;
+    line-height: 2.5rem;
+    padding: 0 2%;
 }
 
 .modal-content{
@@ -74,6 +75,8 @@ h2 {
     grid-area: main-section;
     display: -ms-grid;
     display: grid;
+    line-height
+    2.2rem;
     -ms-grid-row:2;
     -ms-grid-column:1;
     -ms-grid-columns: 15% 1fr 15%;
@@ -130,7 +133,7 @@ h2 {
 }
 .markers article, .register-sites article, .noteworthy-locations article, .map article{
     width:20%;
-    min-width:200px;
+    min-width:220px;
     max-width:350px;
     margin-right:20px;
     margin-bottom:20px;
@@ -585,8 +588,6 @@ h2 {
     /** Unhide lightbox **/
     display: block;
 }
-.modal-description{
-    line-height: 2.5rem;
-}
+
 
 `

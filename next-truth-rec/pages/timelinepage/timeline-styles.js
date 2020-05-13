@@ -82,15 +82,17 @@ h2 {
 /************************************/
 /*******MEDIA QUERY STYLES*********/
 /************************************/
+@media only screen and (min-width: 1170px) {
+  #cd-timeline {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  }
+  }
   @media only screen and (min-width: 1170px) {
-    #cd-timeline {
-      margin-top: 3em;
-      margin-bottom: 3em;
-    }
-    #cd-timeline::before {
-      left: 50%;
-      margin-left: -2px;
-    }
+  #cd-timeline::before {
+  left: 50%;
+  margin-left: -2px;
+  }
   }
   
   .cd-timeline-block {
@@ -100,7 +102,7 @@ h2 {
   .cd-timeline-block:after {
     content: "";
     display: table;
-    clear: both;
+    clear: both;#cd
   }
   .cd-timeline-block:first-child {
     margin-top: 0;
