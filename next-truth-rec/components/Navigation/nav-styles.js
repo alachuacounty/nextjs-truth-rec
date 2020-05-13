@@ -492,6 +492,10 @@ ul.modal-children li a{
         -ms-grid-column: 1;
 
     }
+
+    .sub-elements{
+        padding-left:0;
+    }
     
 
     .hamburger-menu {
