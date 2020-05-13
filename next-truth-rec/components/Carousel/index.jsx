@@ -25,24 +25,35 @@ render(){
     return(
     <React.Fragment>
  
- <div className="carousel">
-  <div className="carousel-cell">
-  <img src="./img/carousel-media/test.jpg" alt=""/>
-  </div>
-  <div className="carousel-cell">
-  <img src="./img/carousel-media/test.jpg" alt=""/>
-  </div>
-  <div className="carousel-cell">
-  <img src="./img/carousel-media/test.jpg" alt=""/>
-  </div>
-   <div className="carousel-cell">
-  <img src="./img/carousel-media/test.jpg" alt=""/>
-  </div>
 
+ 
+
+ <div className="carousel" data-flickity='{ "adaptiveHeight": true }'>
+
+ <div className="carousel-cell">
+<img src="./img/carousel-media/test.jpg" alt=""/>
 </div>
 
 
-\
+<div className="carousel-cell">
+<img src="./img/carousel-media/test.jpg" alt=""/>
+</div>
+
+ 
+<div className="carousel-cell">
+<img src="./img/carousel-media/test.jpg" alt=""/>
+</div>
+
+<div className="carousel-cell">
+<img src="./img/carousel-media/test.jpg" alt=""/>
+</div>
+
+<div className="carousel-cell">
+<img src="./img/carousel-media/test.jpg" alt=""/>
+</div>
+
+</div>
+
 
   </React.Fragment>
     );
@@ -58,6 +69,11 @@ export default Carousel;
 
 
 
+
+
+<div className="carousel-cell">
+<img src="./img/carousel-media/test.jpg" alt=""/>
+</div>
 
 
 
