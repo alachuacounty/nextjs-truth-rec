@@ -45,9 +45,9 @@ render(){
 <img src="./img/carousel-media/test.jpg" alt=""/>
 </div>
 
-<div className="carousel-cell">
-<img src="./img/carousel-media/test.jpg" alt=""/>
-</div>
+<video controls  className="carousel-cell" src="./img/carousel-media/test-city.mp4" poster="initial_static_picture.jpg" width="100%" height="100%">
+</video>
+
 
 <div className="carousel-cell">
 <img src="./img/carousel-media/test.jpg" alt=""/>
