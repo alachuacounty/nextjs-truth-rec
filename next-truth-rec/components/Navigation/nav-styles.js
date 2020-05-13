@@ -81,6 +81,7 @@ a .logo-img {
     grid-area:snav-ul;
     margin-top: auto;
     margin-bottom: auto;
+    margin-top: 6px;
 }
 
 .sub-elements li {
@@ -493,8 +494,9 @@ ul.modal-children li a{
 
     }
 
-    .sub-elements{
-        padding-left:0;
+    .subnav{
+        padding-left: 0;
+        
     }
     
 
