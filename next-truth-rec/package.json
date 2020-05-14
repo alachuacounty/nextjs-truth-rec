@@ -17,6 +17,7 @@
     "nodemailer": "^6.4.6",
     "popper.js": "^1.16.1",
     "react": "16.13.0",
-    "react-dom": "16.13.0"
+    "react-dom": "16.13.0",
+    "react-flickity-component": "^3.5.0"
   }
 }

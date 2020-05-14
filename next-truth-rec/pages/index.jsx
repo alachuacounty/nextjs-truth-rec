@@ -11,6 +11,7 @@ import Link from "next/link";
 import Layout from "../components/Layout";
 import mainStyles from "../public/jsx-styles/main-styles"
 import Carousel from "../components/Carousel"
+import HomeCarousel from "../components/HomeCarousel"
 
 //Functional Component 
 const MainPage  = () => (
@@ -20,7 +21,7 @@ const MainPage  = () => (
           <section className="index-main main">
   
              
-                <Carousel className="hero grid-item"/>
+                <HomeCarousel className="hero grid-item"/>
               
   
                 <div id="truth-rec-info">
