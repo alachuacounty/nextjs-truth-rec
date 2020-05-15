@@ -52,6 +52,7 @@ h2 {
     -ms-grid-column:2;
     margin: auto;
     grid-area:title;
+    text-align:center;
   }
   #cd-timeline {
     -ms-grid-row:2;

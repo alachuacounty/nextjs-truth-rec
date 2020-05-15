@@ -25,12 +25,16 @@ export default css `
     height: fit-content;
     bottom: 0;
 }
+body{
+    min-height: 100%;
+}
 
 .alachua-info{
     -ms-grid-row: 1;
     -ms-grid-column: 2;
     grid-area: alachua-info;
     font-size: 15px;
+    text-align: center;
     color:white;
     -ms-grid-column-align: center;
         justify-self: center;

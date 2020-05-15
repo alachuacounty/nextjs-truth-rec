@@ -103,6 +103,9 @@ ul.modal-children{
     ul.modal-children{
         padding-left:60px;
     }
+    .sub-elements{
+        padding-left:0;
+    }
 }
 
 

@@ -36,6 +36,7 @@ h2 {
 }
 .grid-container{
     width:100%;
+    height:100%;
     display: -ms-flexbox;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;

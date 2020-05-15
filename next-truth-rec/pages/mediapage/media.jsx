@@ -103,7 +103,7 @@ render(){
                     </div>
                     <div className="modal-body-2">
 
-                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/AMjWEjQy7yI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/AMjWEjQy7yI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen=""></iframe>
 
                     </div>
                 </div>
@@ -122,7 +122,7 @@ render(){
                     </div>
                     <div className="modal-body-2">
 
-                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/uQoD2sS5S6Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/uQoD2sS5S6Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen=""></iframe>
 
                     </div>
                 </div>
@@ -140,7 +140,7 @@ render(){
                     </div>
                     <div className="modal-body-2">
 
-                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/7BppYvSvLrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/7BppYvSvLrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen=""></iframe>
 
                     </div>
                 </div>
@@ -159,7 +159,7 @@ render(){
                     </div>
                     <div className="modal-body-2">
 
-                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/9FtJSvUeIPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/9FtJSvUeIPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen=""></iframe>
 
                     </div>
                 </div>
@@ -179,7 +179,7 @@ render(){
                     </div>
                     <div className="modal-body-2">
 
-                        <iframe width="100%" height="400px" src="https://player.vimeo.com/video/9700903" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        <iframe width="100%" height="400px" src="https://player.vimeo.com/video/9700903" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen=""></iframe>
 
                     </div>
                 </div>

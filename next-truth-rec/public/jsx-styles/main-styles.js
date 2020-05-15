@@ -376,6 +376,12 @@ a img {
     .explore{
         text-align: center;
     }
+    .overlay-text{
+        top: 70%;
+    }
+    .overlay-text p{
+        font-size: 18px;
+    }
     #img-quote {
         -ms-grid-columns: 5% 1fr 5%;
         grid-template-columns: 5% 1fr 5%;
