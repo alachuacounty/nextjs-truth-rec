@@ -37,11 +37,10 @@ class Modal extends React.Component{
                     </a> 
                 </div>
                 <ul className="modal-children">
-                    <li className="menu1"> <Link href="/about"><a>About</a></Link></li>
-                    <li className="menu2"><Link href="/resources"><a>Resources</a></Link></li>
-                    <li className="menu3"><Link href="/reparations"><a>Reparations</a></Link></li>
-                    <li className="menu4"><Link href="/events"><a>Events</a></Link></li>
-                    <li className="menu5"><Link href="/contact"><a>Contact</a></Link></li>
+                    <li className="menu1"> <Link href="/aboutpage/about"><a>About</a></Link></li>
+                    <li className="menu2"><Link href="/resourcespage/resources"><a>Resources</a></Link></li>
+                    <li className="menu4"><Link href="/eventspage/events"><a>Events</a></Link></li>
+                    <li className="menu5"><Link href="/contactpage/contact"><a>Contact</a></Link></li>
                 </ul> 
                 <style jsx>{modalStyles}</style>
             </div>
