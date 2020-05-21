@@ -91,4 +91,12 @@ ol {
     }
 }
 
+@media screen and (max-width: 980px) {
+  
+  .main-about{
+    -ms-grid-columns: 15% 1fr 15%;
+    grid-template-columns: 15% 1fr 15%;
+  }
+}
+
 `
