@@ -99,7 +99,7 @@ ul.modal-children{
     padding-left:120px;
 }
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 500px){
     ul.modal-children{
         padding-left:60px;
     }
