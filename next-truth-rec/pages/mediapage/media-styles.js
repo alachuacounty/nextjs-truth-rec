@@ -418,7 +418,6 @@ h2 {
     .modal-body-2{
         padding:0;
     }
-
     }
 
 /* TABLET MEDIA QUERY */

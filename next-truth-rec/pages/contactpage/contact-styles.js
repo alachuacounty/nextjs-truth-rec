@@ -53,6 +53,13 @@ body{
     grid-area: main-section;
 
 }
+.title{
+    text-align:center;
+    font-size: 36px;
+}
+.contact-story{
+    text-align:center;
+}
 @media screen and (max-width:920px){
     #contact-main {
         -ms-grid-columns: 12% 1fr 12%;
@@ -216,4 +223,26 @@ select{
 /*****************************************/
         /* STYLES FOR FORM END HERE*/
 /*****************************************/
+
+@media screen and (max-width: 480px) {
+    
+.title{
+    text-align:center;
+}
+.contact-story{
+    text-align:center;
+}
+    }
+
+    @media screen and (max-width: 800px) {
+    
+
+        .title{
+            text-align:center;
+        }
+        .contact-story{
+            text-align:center;
+        }
+        
+        }
 `
