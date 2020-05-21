@@ -77,6 +77,8 @@ h2 {
     display: grid;
     line-height
     2.2rem;
+    margin-top:40px;
+    margin-bottom:80px;
     -ms-grid-row:2;
     -ms-grid-column:1;
     -ms-grid-columns: 15% 1fr 15%;
