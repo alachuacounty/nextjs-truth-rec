@@ -1,7 +1,7 @@
 import css from 'styled-jsx/css'
 
 
-export default css `
+export default css.global `
 
 /***************************/
 /*THESE ARE BASE STYLES FOR ALL THE SITE*/
