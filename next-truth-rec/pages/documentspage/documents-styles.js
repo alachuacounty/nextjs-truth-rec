@@ -17,6 +17,8 @@ h2 {
 }
 body{
   margin: 0!important;
+  display: -ms-flexbox;
+  -ms-flex-direction: column;
 }
 
 /************************************/

@@ -7,6 +7,9 @@ export default css `
 body {
     font-size: 20px;
     margin: 0;
+    display: -ms-flexbox;
+    -ms-flex-direction: column;
+    
 }
 
 h1 {
