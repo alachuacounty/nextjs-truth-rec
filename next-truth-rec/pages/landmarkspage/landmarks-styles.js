@@ -58,7 +58,7 @@ h2 {
     display: grid;
     -ms-grid-columns: 1fr;
     grid-template-columns:1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 35% auto;
         grid-template-areas:
     "modal-description" "modal-landmark";
 }
@@ -342,6 +342,7 @@ h2 {
 .sub-elements li{
     padding-right: 8px;
 }
+
 }
 @media screen and (max-width: 840px){
     .menu a , .subnav ul li{
