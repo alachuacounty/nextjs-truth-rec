@@ -99,7 +99,7 @@ margin-bottom:80px;
     position: absolute;
     height: 100%;  
     width: 100%;   
-    top: -14px;   
+    top: 0;   
     left: 0;
 }
 .text{
