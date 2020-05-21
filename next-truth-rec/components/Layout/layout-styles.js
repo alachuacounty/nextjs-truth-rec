@@ -561,6 +561,7 @@ a:hover{
         max-width: 600px;
         margin: 30px auto;
     } 
+   
 }
 @media (min-width:992px) {
     .modal-lg {

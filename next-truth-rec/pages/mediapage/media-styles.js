@@ -412,6 +412,12 @@ h2 {
         grid-gap: 15px;
         grid-column: 2/3;  */
     }
+    .modal-content{
+        width:100%;
+    }
+    .modal-body-2{
+        padding:0;
+    }
 
     }
 
