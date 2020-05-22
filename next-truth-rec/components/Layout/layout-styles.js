@@ -34,6 +34,9 @@ h2 {
     margin-inline-end: 0px;
     font-weight: bold;
 }
+#__next-prerender-indicator {
+    display: none!important;
+  }
 .grid-container{
     width:100%;
     height:100%;
