@@ -402,6 +402,10 @@ h2 {
             justify-content: center;
 }
 
+.modal-content{
+    width:100%;
+}
+
 }
 
 @media screen and (max-width: 480px) {
