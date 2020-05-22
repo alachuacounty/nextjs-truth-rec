@@ -24,6 +24,7 @@ h2 {
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 60% 40%;
+    overflow: hidden;
     grid-template-columns: 60% 40%;
         grid-template-areas:
     "modal-description modal-landmark";
