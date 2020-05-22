@@ -58,7 +58,7 @@ h2 {
     display: grid;
     -ms-grid-columns: 1fr;
     grid-template-columns:1fr;
-    grid-template-rows: 35% auto;
+    grid-template-rows: auto auto;
         grid-template-areas:
     "modal-description" "modal-landmark";
 }
