@@ -1,6 +1,11 @@
 # Truth and Reconciliation Rebuilt in Next.js
 This project is rebuilt on a Javascript Framework known as Next.js.
 
+# NOTES:
+* Before Editing this Project, make sure to pull latest files
+* Type npm install to get latest assets for project before making edits
+* Make sure to cd into next truth rec to see project running
+
 ## Steps to run this project
 1. **cd** into **next-truth-rec**
 2. run **npm install** to get latest packages/build
