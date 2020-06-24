@@ -22,6 +22,7 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 * Github Account (If making contributions to code)
 * Github Desktop
 * Node installed
+* Basic knowledge in React Component Model, Next.js, JSX constraints
 
 ## Dependencies used in this project (Can be found in paackage.json file)
 * **Bootstrap** (https://www.npmjs.com/package/bootstrap)
