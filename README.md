@@ -24,10 +24,7 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 * [Next.js Head component used](https://nextjs.org/docs/api-reference/next/head "Next.js Head Component")
 * [NodeMailer Documentation](https://www.npmjs.com/package/nodemailer "NodeMailer doc")
 
-## Using Repl.it when testing IE
-* import repo
-* add **cd next-truth-rec && npm install && npm run dev** into .replit file
-* Go to index.jsx and click Run Button 
+
 
 
 
