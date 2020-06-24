@@ -8,15 +8,14 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 3. run **npm install** to get latest packages/build
 4. run **npm run dev** to see the developer build
 
-# NOTES:
+# WORKFLOW
 * Before Editing this Project, make sure to pull latest files
 * Type npm install to get latest assets for project before making edits
 * Make sure to cd into next truth rec to see project running
 
 
 ## File/Folder structure
-* Global Components **(Navigation, Footer, Modal)** are in Components folder
-* Layout Component links Navigation/Footer and their styles to each page
+* Global Components **(Navigation, Footer, Modal, etc)** are in Components folder
 * Inside pages folder each webpage has its own folder with jsx file(content) and -styles js file(styles)
 
 ## Resources (NOTE: all packages used are found in package.json file)
