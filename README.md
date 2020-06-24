@@ -15,6 +15,8 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 
 
 ## File/Folder structure
+* Found inside pages folder are induvidual pages with their respective markup and styles
+* Files are created as .jsx files to take full advantage of JSX features
 * Global Components **(Navigation, Footer, Modal, etc)** are in Components folder
 * Inside pages folder each webpage has its own folder with jsx file(content) and -styles js file(styles)
 
