@@ -18,8 +18,15 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 * Global Components **(Navigation, Footer, Modal, etc)** are in Components folder
 * Inside pages folder each webpage has its own folder with jsx file(content) and -styles js file(styles)
 
-## Dependencies used in this project
+## Dependencies used in this project (Can be found in paackage.json file)
+* **Bootstrap** (https://www.npmjs.com/package/bootstrap)
+* **Express** (https://www.npmjs.com/package/express)
+* **express-validator**  (https://www.npmjs.com/package/express-validator)
 * **React Flickity Component**  (https://www.npmjs.com/package/react-flickity-component)
+* **Jquery**  (https://www.npmjs.com/package/jquery)
+
+
+
 
 
 
