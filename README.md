@@ -18,10 +18,9 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 * Global Components **(Navigation, Footer, Modal, etc)** are in Components folder
 * Inside pages folder each webpage has its own folder with jsx file(content) and -styles js file(styles)
 
-## Resources (NOTE: all packages used are found in package.json file)
-* [Read about component model used in this project](https://reactjs.org/docs/components-and-props.html "React Component Model")
-* [Next.js Head component used](https://nextjs.org/docs/api-reference/next/head "Next.js Head Component")
-* [NodeMailer Documentation](https://www.npmjs.com/package/nodemailer "NodeMailer doc")
+## Dependencies used in this project
+* **React Flickity Component**  (https://www.npmjs.com/package/react-flickity-component)
+
 
 
 
