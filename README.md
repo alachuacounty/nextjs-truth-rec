@@ -1,15 +1,17 @@
 # Truth and Reconciliation Rebuilt in Next.js
 This project is rebuilt on a Javascript Framework known as Next.js.
 
+
+## How to run this project for the first time
+1. **cd** into **next-truth-rec**
+2. run **npm install** to get latest packages/build
+3. run **npm run dev** to see the developer build
+
 # NOTES:
 * Before Editing this Project, make sure to pull latest files
 * Type npm install to get latest assets for project before making edits
 * Make sure to cd into next truth rec to see project running
 
-## Steps to run this project
-1. **cd** into **next-truth-rec**
-2. run **npm install** to get latest packages/build
-3. run **npm run dev** to see the live build
 
 ## File/Folder structure
 * Global Components **(Navigation, Footer, Modal)** are in Components folder
