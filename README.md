@@ -11,7 +11,8 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 ## WORKFLOW
 * Make sure to pull latest files before editing this project.
 
-
+## Styling within this project
+* Css in js was used to style components/elements throughout this project. Read more here: (https://nextjs.org/blog/styling-next-with-styled-jsx)
 
 ## File/Folder structure
 * Found inside pages folder are induvidual pages with their respective markup and styles
