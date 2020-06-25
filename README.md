@@ -9,9 +9,8 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 4. run **npm run dev** to see the developer build
 
 ## WORKFLOW
-* Before Editing this Project, make sure to pull latest files
-* Type npm install to get latest assets for project before making edits
-* Make sure to cd into next truth rec to see project running
+* Make sure to pull latest files before editing this project.
+
 
 
 ## File/Folder structure
