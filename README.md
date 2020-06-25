@@ -19,6 +19,9 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 * Files are created as .jsx files to take full advantage of JSX features
 * Global Components are located withing the **components** folder
 
+## How layout component was used in this project
+* Instruction coming soon here
+
 ## Resources Needed
 * Github Account (If making contributions to code)
 * Github Desktop
