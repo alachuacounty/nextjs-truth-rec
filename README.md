@@ -6,7 +6,12 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 * Github Account (If making contributions to code)
 * Github Desktop
 * Node installed
-* Basic knowledge in React Component Model, Next.js, JSX constraints
+* Basic knowledge in Github, React Component Model, Next.js, JSX constraints
+
+## Key terminal commands
+* npm install - Gets latest packages, assets for project
+* npm run dev - Runs a live dev version of the project
+* cd - Allows you to change directory into the project
 
 ## How to run this project for the first time
 1. **Clone** project from github via website or github desktop application
