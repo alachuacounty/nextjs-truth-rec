@@ -2,6 +2,12 @@
 This project is rebuilt on a Javascript Framework known as Next.js.
 
 
+## Resources Needed
+* Github Account (If making contributions to code)
+* Github Desktop
+* Node installed
+* Basic knowledge in React Component Model, Next.js, JSX constraints
+
 ## How to run this project for the first time
 1. **Clone** project from github via website or github desktop application
 2. open terminal and **cd** into **next-truth-rec** folder
@@ -22,11 +28,6 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 ## How layout component was used in this project
 * Instruction coming soon here
 
-## Resources Needed
-* Github Account (If making contributions to code)
-* Github Desktop
-* Node installed
-* Basic knowledge in React Component Model, Next.js, JSX constraints
 
 ## Dependencies used in this project (Can be found in paackage.json file)
 * **Bootstrap** (https://www.npmjs.com/package/bootstrap)
