@@ -1,5 +1,5 @@
 # Truth and Reconciliation Rebuilt in Next.js
-This project is rebuilt on a Javascript Framework known as Next.js.
+This project is rebuilt on a Javascript Framework known as Next.js. We ultimately chose Next.js over React because of routing between multiple pages. 
 
 
 ## Resources Needed
@@ -42,6 +42,13 @@ This project is rebuilt on a Javascript Framework known as Next.js.
 * **Jquery** (https://www.npmjs.com/package/jquery)
 * **Next.js** (https://www.npmjs.com/package/jquery)
 * **Nodemailer** (https://www.npmjs.com/package/nodemailer)
+
+## Takeaways/Things learned from this project
+* React is more for single page applications while Next is made with multi page applications in mind.
+* A common error that we found was *error lifecyle* which means you must cd a layer deeper before running project 
+* Using **Layout Component** to link global styles/components was great for modularizing code.
+* When using plugins such as Flickity, make sure to check if there is a React Component package that is optimized for React/Next project.
+
 
 
 
