@@ -16,21 +16,11 @@ This project is rebuilt on a Javascript Framework known as Next.js. We ultimatel
 4. run **npm run dev** to see the developer build
 
 
-## Key terminal commands
-* npm install - Gets latest packages, assets for project
-* npm update - Updates existing packages/assets for project
-* npm run dev - Runs a live dev version of the project
-* cd - Allows you to change directory into the project
-
-
+# Workflow
 ## File/Folder structure
 * Found inside pages folder are individual pages with their respective markup and styles
 * Files are created as .jsx files to take full advantage of JSX features
 * Global Components are located within the **components** folder
-
-
-## WORKFLOW
-* Make sure to pull latest files before editing this project.
 
 ## Styling within this project
 * Css in js was used to style components/elements throughout this project. Read more here: (https://nextjs.org/blog/styling-next-with-styled-jsx)
@@ -54,6 +44,12 @@ This project is rebuilt on a Javascript Framework known as Next.js. We ultimatel
     export default Page;
 ```
 
+## Key terminal commands
+* npm install - Gets latest packages, assets for project
+* npm update - Updates existing packages/assets for project
+* npm run dev - Runs a live dev version of the project
+* cd - Allows you to change directory into the project
+
 
 ## Dependencies used in this project (Can be found in package.json file)
 * **Bootstrap** (https://www.npmjs.com/package/bootstrap)
@@ -69,6 +65,7 @@ This project is rebuilt on a Javascript Framework known as Next.js. We ultimatel
 * A common error that we found was *error lifecyle* which means you must **change directory (cd)** a layer deeper before running project 
 * Using **Layout Component** to link global styles/components was great for modularizing code.
 * When using plugins such as Flickity, make sure to check if there is a React Component package that is optimized for React/Next project.
+
 
 
 
