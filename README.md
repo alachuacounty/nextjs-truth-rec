@@ -8,10 +8,6 @@ This project is rebuilt on a Javascript Framework known as Next.js. We ultimatel
 * Node installed
 * Basic knowledge in Github, React Component Model, Next.js, JSX constraints
 
-## Key terminal commands
-* npm install - Gets latest packages, assets for project
-* npm run dev - Runs a live dev version of the project
-* cd - Allows you to change directory into the project
 
 ## How to run this project for the first time
 1. **Clone** project from github via website or github desktop application
@@ -19,17 +15,26 @@ This project is rebuilt on a Javascript Framework known as Next.js. We ultimatel
 3. run **npm install** to get latest packages/build
 4. run **npm run dev** to see the developer build
 
+
+## Key terminal commands
+* npm install - Gets latest packages, assets for project
+* npm update - Gets latest 
+* npm run dev - Runs a live dev version of the project
+* cd - Allows you to change directory into the project
+
+
+## File/Folder structure
+* Found inside pages folder are individual pages with their respective markup and styles
+* Files are created as .jsx files to take full advantage of JSX features
+* Global Components are located within the **components** folder
+
+
 ## WORKFLOW
 * Make sure to pull latest files before editing this project.
 
 ## Styling within this project
 * Css in js was used to style components/elements throughout this project. Read more here: (https://nextjs.org/blog/styling-next-with-styled-jsx)
 * Find styles for each component and page within their directories named as {pagename}-styles.js
-
-## File/Folder structure
-* Found inside pages folder are induvidual pages with their respective markup and styles
-* Files are created as .jsx files to take full advantage of JSX features
-* Global Components are located within the **components** folder
 
 ## How layout component was used in this project
 * A custom "Layout" component was built that combines the common components of every page (Navigation, Modal, Footer) and their styles.
