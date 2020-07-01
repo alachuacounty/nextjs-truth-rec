@@ -40,6 +40,7 @@ This project is rebuilt on a Javascript Framework known as Next.js. We ultimatel
 * A custom "Layout" component was built that combines the common components of every page (Navigation, Modal, Footer) and their styles.
 * To build a page simply import the Layout component and wrap page content within Layout tags
 ```jsx
+    import Layout from {/* path to /components/Layout*/};
     <Layout>
     {/* Insert page content here */}
     </Layout>
