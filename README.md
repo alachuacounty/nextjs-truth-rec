@@ -41,9 +41,17 @@ This project is rebuilt on a Javascript Framework known as Next.js. We ultimatel
 * To build a page simply import the Layout component and wrap page content within Layout tags
 ```jsx
     import Layout from {/* path to /components/Layout*/};
-    <Layout>
-    {/* Insert page content here */}
-    </Layout>
+
+    class Page extends React.Component{
+        render(){
+            return(
+                <Layout>
+                    {/* Insert page content here */}
+                </Layout>
+            );
+        }
+    }
+    export default Page;
 ```
 
 
