@@ -24,6 +24,7 @@ This project is rebuilt on a Javascript Framework known as Next.js. We ultimatel
 
 ## Styling within this project
 * Css in js was used to style components/elements throughout this project. Read more here: (https://nextjs.org/blog/styling-next-with-styled-jsx)
+* Find styles for each component and page within their directories named as {pagename}-styles.js
 
 ## File/Folder structure
 * Found inside pages folder are induvidual pages with their respective markup and styles
