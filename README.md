@@ -18,7 +18,7 @@ This project is rebuilt on a Javascript Framework known as Next.js. We ultimatel
 
 ## Key terminal commands
 * npm install - Gets latest packages, assets for project
-* npm update - Gets latest packages that aren't currently installed
+* npm update - Updates existing packages/assets for project
 * npm run dev - Runs a live dev version of the project
 * cd - Allows you to change directory into the project
 
