@@ -31,7 +31,13 @@ This project is rebuilt on a Javascript Framework known as Next.js. We ultimatel
 * Global Components are located within the **components** folder
 
 ## How layout component was used in this project
-* Instruction coming soon here
+* A custom "Layout" component was built that consolidates the common components of every page (Navigation, Modal, Footer) and their styles.
+* To build a page simply import the Layout component and wrap page content within Layout tags
+```jsx
+    <Layout>
+    {/* Insert page content here */}
+    </Layout>
+```
 
 
 ## Dependencies used in this project (Can be found in package.json file)
