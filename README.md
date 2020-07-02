@@ -41,6 +41,16 @@ h2{
 `
 ```
 
+* To import your external styles into your markup, follow this pattern in your {pagename}.jsx file
+
+```jsx
+import pageName from "./pagename-styles.js"
+
+<style jsx>{pageName}</style>
+
+`
+```
+
 ## How layout component was used in this project
 * A custom "Layout" component was built that combines the common components of every page (Navigation, Modal, Footer) and their styles.
 * To build a page simply import the Layout component and wrap page content within Layout tags
