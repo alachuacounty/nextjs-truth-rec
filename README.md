@@ -53,8 +53,10 @@ class Page extends React.Component{
                 <div>
                     {/* Insert page content here */}
 
+                    ********************************
+                    <style jsx> {pageStyles} </style>
+                    ********************************
                     
-                    `<style jsx> {pageStyles} </style>`
                 </div>
             );
         }
