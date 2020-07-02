@@ -48,7 +48,7 @@ import pageName from "./pagename-styles.js"
 
 <style jsx>{pageName}</style>
 
-`
+
 ```
 
 ## How layout component was used in this project
