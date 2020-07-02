@@ -41,7 +41,7 @@ h2{
 `
 ```
 
-* To import your external styles into your markup, follow this pattern in your {pagename}.jsx file
+* To import your external styles into your {pagename}.jsx file follow this pattern in
 
 ```jsx
 import pageName from "./pagename-styles.js"
