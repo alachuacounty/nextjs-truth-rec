@@ -1,5 +1,5 @@
 # Truth and Reconciliation Rebuilt in Next.js
-This project is rebuilt on a Javascript Framework known as Next.js. Next.js was ultimately chosen over React because of routing between multiple pages. 
+This project is rebuilt on a Javascript Framework known as Next.js. Next.js was ultimately chosen over React because routing between multiple pages significantly easier. 
 
 
 ## Resources Needed
