@@ -16,7 +16,7 @@ This project is rebuilt on a Javascript Framework known as Next.js. Next.js was 
 4. run **npm run dev** to see the developer build
 
 **Note** 
-* A common error found was *error lifecyle* which means you must **change directory (cd)** a layer deeper before running project 
+* A common error found was *error lifecyle* which means you must **change directory (cd)** into the **next-truth-rec** folder
 
 
 # Workflow
