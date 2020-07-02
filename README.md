@@ -62,7 +62,7 @@ This project is rebuilt on a Javascript Framework known as Next.js. Next.js was 
 
 ## Takeaways/Things learned from this project
 * React is more for single page applications while Next is made with multi page applications in mind.
-* A common error that found was *error lifecyle* which means you must **change directory (cd)** a layer deeper before running project 
+* A common error found was *error lifecyle* which means you must **change directory (cd)** a layer deeper before running project 
 * Using **Layout Component** to link global styles/components was great for modularizing code.
 * When using plugins such as Flickity, make sure to check if there is a React Component package that is optimized for React/Next project.
 
