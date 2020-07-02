@@ -28,6 +28,14 @@ This project is rebuilt on a Javascript Framework known as Next.js. Next.js was 
 ## Styling within this project
 * Css in js was used to style components/elements throughout this project. Read more here: (https://nextjs.org/blog/styling-next-with-styled-jsx)
 * Find styles for each component and page within their directories named as {pagename}-styles.js
+* To use external styles follow this pattern below
+```
+import css from 'styled-jsx/css'
+
+export default css `
+ CSS Styles Go Here
+`
+```
 
 ## How layout component was used in this project
 * A custom "Layout" component was built that combines the common components of every page (Navigation, Modal, Footer) and their styles.
