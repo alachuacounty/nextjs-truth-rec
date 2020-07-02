@@ -44,10 +44,22 @@ h2{
 * To import your external styles into your {pagename}.jsx file follow this pattern below
 
 ```jsx
-import pageName from "./pagename-styles.js"
+import pageStyles from "./pagename-styles.js"
 
-<style jsx>{pageName}</style>
 
+class Page extends React.Component{
+        render(){
+            return(
+                <div>
+                    {/* Insert page content here */}
+
+
+                    **<style jsx> {pageStyles} </style>**
+                </div>
+            );
+        }
+    }
+    export default Page;
 
 ```
 
