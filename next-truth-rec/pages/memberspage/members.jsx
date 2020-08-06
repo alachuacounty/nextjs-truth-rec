@@ -5,7 +5,7 @@ class MembersPage extends React.Component{
         return(
     <Layout>
         
-           
+        <style jsx>{membersStyles}</style>
      </Layout>
     )
         }
