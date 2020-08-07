@@ -20,17 +20,24 @@ render(){
             <br/>
             <h2 className="title">Past Events</h2>
             <div>
-                    <h3><a href="https://afam.clas.ufl.edu/african-american-studies-symposium/"><strong>2/20/2020 -
-                                African American Studies Turns 50! Symposium &amp; Anniversary Celebration</strong></a></h3>
-                    <p>This Anniversary program is free and open to the public. Please RSVP by @
-                        africanamericanstudies.eventbrite.com</p><br/>
-                        <a href="https://www.eventbrite.com/e/african-american-studies-50th-celebration-uf-tickets-79771160689">Click here to register &gt;</a>
+                    <h3><a href="https://afam.clas.ufl.edu/african-american-studies-symposium/"><strong>February 20, 2020 -
+                                African American Studies Turns 50! Symposium & Anniversary Celebration</strong></a></h3>
+                    <p>For more information, follow the article below or listen to the podcast.</p><br/>
+                    <h4>Related Media &amp; News link </h4>
+                        <a href="https://www.gainesville.com/news/20200216/uf-african-american-studies-program-hits-50-year-mark"> Gainesville Sun-UF African American studies program hits 50-year mark </a>
+                        <br/>
+                        <a href="https://www.wuft.org/blog/2020/02/16/uf-african-american-studies-program-50th-anniversary-celebration/">WUFT-UF African American Studies Program 50th Anniversary Celebration </a><br/>
+                        <a href="https://www.wuft.org/wp-content/uploads/2020/02/20200213_TMAI-African-American-Studies.mp3?_=1">Tell Me About It WUFT-African American Studies Podcast </a>
+ 
                         
                 </div>
-              <div>
-                <h3><strong>2/17/2020 - Alachua County BoCC Special Meeting/Workshop – Truth and Reconciliation Community Remembrance Project</strong></h3>
-                <p>Alachua County is hosting a community workshop to discuss plans for commemorating and recognizing victims of lynching with plans to erect historical markers throughout the county, which will create memorials that acknowledges the horrors of racial injustice. <strong>This workshop will be held at the Senior Recreation Center, 5701 NW 34th Blvd., Gainesville, FL 32653, at 6:00 p.m. It is open to the public.</strong></p><br/>
-              </div>
+                <hr/>
+                <div>
+                    <h3><a href="https://www.wcjb.com/content/news/Truth-and-Reconciliation-workshop-held-by-Alachua-County-567960921.html"><strong>February 2, 2020 - Alachua County BoCC Special Meeting/Workshop – Truth and Reconciliation Community Remembrance Project</strong></a></h3>
+                    <p>Alachua County  hosted a community workshop to discuss plans for commemorating and recognizing victims of lynching with plans to erect historical markers throughout the county, which created memorials that acknowledged the horrors of racial injustice. For more information follow the link below.</p><br/>
+                    <h4>Related Media &amp; News link </h4>
+                    <a href="https://www.wcjb.com/content/news/Truth-and-Reconciliation-workshop-held-by-Alachua-County-567960921.html"> WCJB-Truth and Reconciliation workshop held by Alachua County </a>
+                </div>
               <hr/>
                     <div>
                         <h3><a href="https://www.hailehomestead.org/"><strong>2/15/2020 - Reclaiming Kin: Once Lost, Now Found</strong></a></h3>
