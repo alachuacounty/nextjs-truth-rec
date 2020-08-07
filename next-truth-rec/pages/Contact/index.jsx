@@ -2,7 +2,7 @@ import React from "react";
 //import '../public/css/TruthRec.css';
 //import "../public/css/contact.css";
 import Layout from "../../components/Layout";
-import contactStyles from "./contact-styles";
+import contactStyles from "../../public/jsx-styles/contact-styles";
 
 var hiddenStyle = { display: 'none'};
 
