@@ -1,5 +1,5 @@
 import Layout from "../../components/Layout";
-import landmarksStyles from "./landmarks-styles"
+import landmarksStyles from "../../public/jsx-styles/landmarks-styles"
 
 var hiddenStyle = {display:'none'};
 

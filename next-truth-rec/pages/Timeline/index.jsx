@@ -3,7 +3,7 @@ import Modal from "../../components/Modal";
 import Footer from "../../components/Footer";
 
 import Layout from "../../components/Layout";
-import timelineStyles from "./timeline-styles"
+import timelineStyles from "../../public/jsx-styles/timeline-styles"
 class TimelinePage extends React.Component{
 
 render(){

@@ -1,5 +1,5 @@
 import Layout from "../../components/Layout";
-import linksStyles from "./links-styles"
+import linksStyles from "../../public/jsx-styles/links-styles"
 class LinksPage extends React.Component{
 
 render(){

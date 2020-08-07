@@ -1,5 +1,5 @@
 import Layout from "../../components/Layout";
-import mediaStyles from "./media-styles";
+import mediaStyles from "../../public/jsx-styles/media-styles";
 
 class MediaPage extends React.Component{
 

@@ -1,7 +1,7 @@
 
 import Layout from "../../components/Layout";
 import Link from "next/link";
-import resourceStyles from "./resources-styles"
+import resourceStyles from "../../public/jsx-styles/resources-styles"
 
 
 class ResourcesPage extends React.Component{

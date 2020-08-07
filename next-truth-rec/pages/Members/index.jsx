@@ -1,5 +1,5 @@
 import Layout from "../../components/Layout";
-import membersStyles from "./members-styles";
+import membersStyles from "../../public/jsx-styles/members-styles";
 class MembersPage extends React.Component{
     render(){
         return(
