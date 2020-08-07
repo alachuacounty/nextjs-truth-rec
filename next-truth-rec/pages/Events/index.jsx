@@ -39,11 +39,13 @@ render(){
                     <a href="https://www.wcjb.com/content/news/Truth-and-Reconciliation-workshop-held-by-Alachua-County-567960921.html"> WCJB-Truth and Reconciliation workshop held by Alachua County </a>
                 </div>
               <hr/>
-                    <div>
-                        <h3><a href="https://www.hailehomestead.org/"><strong>2/15/2020 - Reclaiming Kin: Once Lost, Now Found</strong></a></h3>
-                        <p>Beginning February 15th at 10 am at the Allen &amp; Ethel Graham Visitors Center and Museum at the Historic Haile Homestead, the newest exhibit "Reclaiming Kin: Once Lost, Now Found," opens to the public for the first time! On Feb. 15 Museum is free. Tours of the Homestead will be conducted at 10:15 am, 11:15 am, 12:15 pm and 1:15 pm for $5 per person, under 12 free.</p>
-                        <br/><a href="https://www.hailehomestead.org/">Learn More &gt;</a>
-                    </div>
+             
+                <div>
+                    <h3><a href="https://www.hailehomestead.org/"><strong>February 15, 2020 - Reclaiming Kin: Once Lost, Now Found</strong></a></h3>
+                    <p>On February 15th at 10 am the Allen & Ethel Graham Visitors Center and Museum at the Historic Haile Homestead, the newest exhibit "Reclaiming Kin: Once Lost, Now Found," opened to the public for the first time! Tours of the Homestead were conducted at 10:15 am, 11:15 am, 12:15 pm and 1:15 pm.</p>
+                    <h4>Related Media &amp; News link </h4>
+                    <br /><a href="https://www.hailehomestead.org/">Historic Haile Homestead </a>
+                </div>
                     <hr/>
                     <div>
                         <h3><a href="https://rosewoodflorida.com/"><strong>2/13/2020 - Reclaiming Kin:  The Legacy of Hampton and Grace Hathcock</strong></a></h3>
