@@ -1,6 +1,6 @@
 
 import Layout from "../../components/Layout";
-import videoStyles from "./video-styles";
+import videoStyles from "../../public/jsx-styles/video-styles";
 class VideoPage extends React.Component {
 
 render(){
