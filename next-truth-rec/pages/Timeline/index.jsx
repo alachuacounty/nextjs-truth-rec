@@ -591,6 +591,56 @@ render(){
                     </div> 
                 </div> 
 
+                <div className="cd-timeline-block cd-year">
+                    <div className="cd-timeline-img">
+                        <span className="cd-year-content">1923</span>
+                    </div>
+                </div>
+                <div className="cd-timeline-block">
+                    <div className="cd-timeline-img cd-location">
+                    </div>
+
+                    <div className="cd-timeline-content">
+                        <h2>Abraham Wilson</h2>
+                        <p>Town: Newberry</p>
+                        <p>Location: Cherry tree, 1-1/2 mile from town</p>
+                        <span className="cd-date">Jan 17 </span>
+                    </div> 
+                </div> 
+                <div className="cd-timeline-block cd-year">
+                    <div className="cd-timeline-img">
+                        <span className="cd-year-content">1926</span>
+                    </div>
+                </div>
+                <div className="cd-timeline-block">
+                    <div className="cd-timeline-img cd-location">
+                    </div>
+
+                    <div className="cd-timeline-content">
+                        <h2>George Buddington</h2>
+                        <p>Town: Waldo</p>
+                        <p>Location: Orange Heights Road 3 mi. from town</p>
+                        <span className="cd-date">Dec 27 </span>
+                    </div> 
+                </div> 
+                <div className="cd-timeline-block cd-year">
+                    <div className="cd-timeline-img">
+                        <span className="cd-year-content">1942</span>
+                    </div>
+                </div>
+                <div className="cd-timeline-block">
+                    <div className="cd-timeline-img cd-location">
+                    </div>
+
+                    <div className="cd-timeline-content">
+                        <h2>Lester Watts</h2>
+                        <p>Town: Gainesville</p>
+                        <p>Location: South Pleasant St, near University Ave.</p>
+                        <span className="cd-date">Mar 21 </span>
+                    </div> 
+                </div>
+               
+
             </div> 
     </section>
     <style jsx>{timelineStyles}</style>
