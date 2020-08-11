@@ -1,6 +1,7 @@
 import Layout from "../../components/Layout";
 import eventsStyles from "../../public/jsx-styles/events-styles";
 
+
 class EventsPage extends React.Component{
 
 render(){
