@@ -1,12 +1,13 @@
 import Layout from "../../components/Layout";
 import eventsStyles from "../../public/jsx-styles/events-styles";
-
+import Calendar from "../../components/FullCalendar"
 
 class EventsPage extends React.Component{
 
 render(){
     return(
 <Layout>
+   
     <section id="events-main" className="main">
         <div id="main-content">
         <h1 className="title">Upcoming Events </h1>
