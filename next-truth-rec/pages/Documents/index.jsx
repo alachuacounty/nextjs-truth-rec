@@ -1,11 +1,12 @@
 import Layout from "../../components/Layout";
 import documentsStyles from "../../public/jsx-styles/documents-styles";
-
+import Calendar from "../../components/FullCalendar/index"
 class DocumentsPage extends React.Component{
 
 render(){
     return(
 <Layout>
+    <Calendar />
 <section className="documents-main" >
             <section className="intro">
                 <h1>Documents</h1>
