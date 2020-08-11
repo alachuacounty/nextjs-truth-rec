@@ -20,10 +20,7 @@ const MainPage  = () => (
         
           <section className="index-main main">
   
-             
-                <HomeCarousel className="hero grid-item"/>
-              
-  
+            
                 <div id="truth-rec-info">
                     <div className="truth-info-head">
                         <h2>What is Truth &amp; Reconcilation?</h2>
