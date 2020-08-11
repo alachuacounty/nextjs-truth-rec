@@ -10,8 +10,8 @@ render(){
         <div id="main-content">
         <h1 className="title">Upcoming Events </h1>
         <div>
-                    <h3><strong>4/4/2020 -
-                        Soil Collection &amp; Commemoration of the Victims of Lynching in Newberry</strong></h3> 
+                    <h3><strong>April 4, 2020 -
+                        Soil Collection & Commemoration of the Victims of Lynching in Newberry</strong> <span className="postponed"> -POSTPONED- </span></h3> 
                     <br/>
                     <br/>
                 </div>

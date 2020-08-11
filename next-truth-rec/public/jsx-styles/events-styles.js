@@ -29,6 +29,9 @@ h3 {
     margin-inline-end: 0px;
     font-weight: bold;
 }
+.postponed{
+    color:red;
+}
 /************************************/
 /********MAIN CONTENT STYLES*********/
 /************************************/
