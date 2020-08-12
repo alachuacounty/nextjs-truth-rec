@@ -40,9 +40,9 @@ class Navigation extends React.Component{
                         </ul>
                     </div>
 
-                <style jsx>
+                 <style jsx>
                     {navcss}
-                </style>
+                </style> 
 
 
                 </section>
