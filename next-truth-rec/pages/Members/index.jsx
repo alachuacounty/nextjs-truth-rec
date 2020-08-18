@@ -4,7 +4,7 @@ class MembersPage extends React.Component{
     render(){
         return(
     <Layout>
-         <section class="main" id="main-section">
+         <section className="main" id="main-section">
        <h2 className="title">Community Remembrance Project Committe</h2>
        <p className="note">Meetings are held every 2nd and 4th Wednesday of each month at 10 a.m.
         For meeting details, please contact Latoya Gainey at <span>lgainey@alachuacounty.us</span> or <span>call 352-264-6900</span></p>
