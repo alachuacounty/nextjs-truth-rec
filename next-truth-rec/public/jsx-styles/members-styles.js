@@ -15,6 +15,10 @@ export default css `
     ". sub-committee ."
    
 }
+
+.main{
+    margin: 0px !important;
+}
 .title{
     -ms-grid-row: 1;
     -ms-grid-column: 2;
