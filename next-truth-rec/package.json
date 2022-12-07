@@ -11,7 +11,7 @@
     "@fullcalendar/daygrid": "^5.2.0",
     "@fullcalendar/react": "^5.2.0",
     "bootstrap": "^4.5.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-validator": "^6.6.1",
     "flickity": "^2.2.1",
     "jquery": "^3.5.1",
